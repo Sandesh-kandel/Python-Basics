@@ -1,0 +1,15 @@
+
+1st position: kamal
+  Highest mark: 98
+  Percentage: 77.33%
+Marks in alll these subjects: ['Science', 'Social', 'Maths']: [78, 56, 98] 
+
+2nd position: sasha
+  Highest mark: 98
+  Percentage: 73.67%
+Marks in alll these subjects: ['Science', 'Social', 'Maths']: [78, 45, 98] 
+
+3rd position: tomy
+  Highest mark: 87
+  Percentage: 73.00%
+Marks in alll these subjects: ['Science', 'Social', 'Maths']: [56, 76, 87] 
